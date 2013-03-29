@@ -1,4 +1,4 @@
-vagrant_chef_study
+[終了しました][ended event]vagrant_chef_study
 ==================
 
 * Issue tracking for vagrant and chef study sessions
